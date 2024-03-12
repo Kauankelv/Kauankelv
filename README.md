@@ -11,7 +11,7 @@ Olá, amigos! Me chamo Kauãn Kelvin Mendes da Costa e sou um entusiasta de tecn
 
 💻 Linguagens de Programação:
 <div><br>
-  <img align="center" alt="Kauan-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Kauan-Jv" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
