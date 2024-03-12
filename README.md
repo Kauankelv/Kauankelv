@@ -19,6 +19,6 @@ Olá, amigos! Me chamo Kauãn Kelvin Mendes da Costa e sou um entusiasta de tecn
 Em Breve.
 
 
-✉️ Contato:
+✉️ Contato:<br>
 Discord: wolfraivoso<br>
 Email:KauanBernaldo88@Gmail.com
