@@ -4,8 +4,10 @@
 📚 Estudante de Tecnologia Analise e Desenolvimento de Sistemas
 🌍 Explorador do universo digital
 
+
 🔥 Sobre Mim:
 Olá, amigos! Me chamo Kauãn Kelvin Mendes da Costa e sou um entusiasta de tecnologia e games. Atualmente, estou mergulhado nos estudos de Tecnologia Analise e Desenolvimento de Sistemas, buscando aprimorar minhas habilidades como desenvolvedor de software. Nos momentos de lazer, você me encontrará explorando novos mundos virtuais, seja em jogos eletrônicos ou em projetos de desenvolvimento de jogos.
+
 
 💻 Linguagens de Programação:
 <div style="display: inline_block"><br>
@@ -14,10 +16,11 @@ Olá, amigos! Me chamo Kauãn Kelvin Mendes da Costa e sou um entusiasta de tecn
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+
 🚀 Projetos Atuais:
 Em Breve.
 
-✉️ Contato:
 
+✉️ Contato:
 Discord: wolfraivoso
 Email:KauanBernaldo88@Gmail.com
