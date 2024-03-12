@@ -15,8 +15,6 @@ Olá, amigos! Me chamo Kauãn Kelvin Mendes da Costa e sou um entusiasta de tecn
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-
 🚀 Projetos Atuais:
 Em Breve.
 
