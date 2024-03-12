@@ -20,5 +20,5 @@ Em Breve.
 
 
 ✉️ Contato:
-Discord: wolfraivoso
+Discord: wolfraivoso<br>
 Email:KauanBernaldo88@Gmail.com
