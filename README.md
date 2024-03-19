@@ -1,4 +1,4 @@
-## 👋 Ola, eu sou @Kauan_kelv
+## 👋 Olá, eu sou @Kauan_kelv
 🎮 Gamer apaixonado
 👨‍💻 Desenvolvedor de software em ascensão
 📚 Estudante de Tecnologia Analise e Desenolvimento de Sistemas
