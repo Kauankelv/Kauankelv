@@ -6,7 +6,7 @@
 
 
 🔥 Sobre Mim:
-Olá, amigos! Me chamo Kauãn Kelvin Mendes da Costa e sou um entusiasta de tecnologia e games. Atualmente, estou mergulhado nos estudos de Tecnologia Analise e Desenolvimento de Sistemas, buscando aprimorar minhas habilidades como desenvolvedor de software. Nos momentos de lazer, você me encontrará explorando novos mundos virtuais, seja em jogos eletrônicos ou em projetos de desenvolvimento de jogos.
+Olá, amigos! Me chamo Kauãn Kelvin Mendes da Costa e sou um entusiasta de tecnologia e games. Atualmente, estou mergulhado nos estudos de Tecnologia Analise e Desenolvimento de Sistemas, buscando aprimorar minhas habilidades como desenvolvedor de software. Nos momentos de lazer, você me encontrará explorando novos mundos virtuais, seja em jogos eletrônicos ou em projetos de desenvolvimento.
 
 
 💻 Linguagens de Programação:
