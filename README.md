@@ -1,4 +1,4 @@
-##👋 Hello, I am @Kauan_kelv
+## 👋 Hello, I am @Kauan_kelv
 🎮 Passionate Gamer
 👨‍💻 Aspiring Software Developer
 📚 Student of Technology Analysis and Systems Development
