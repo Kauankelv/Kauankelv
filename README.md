@@ -1,26 +1,24 @@
-## 👋 Olá, eu sou @Kauan_kelv
-🎮 Gamer apaixonado
-👨‍💻 Desenvolvedor de software em ascensão
-📚 Estudante de Tecnologia Analise e Desenolvimento de Sistemas
-🌍 Explorador do universo digital
+##👋 Hello, I am @Kauan_kelv
+🎮 Passionate Gamer
+👨‍💻 Aspiring Software Developer
+📚 Student of Technology Analysis and Systems Development
+🌍 Explorer of the Digital Universe
 
+🔥 About Me:
+Hello, friends! My name is Kauãn Kelvin Mendes da Costa, and I am a technology and games enthusiast. Currently, I am deeply immersed in the study of Technology Analysis and Systems Development, seeking to enhance my skills as a software developer. In my free time, you can find me exploring new virtual worlds, whether in electronic games or development projects.
 
-🔥 Sobre Mim:
-Olá, amigos! Me chamo Kauãn Kelvin Mendes da Costa e sou um entusiasta de tecnologia e games. Atualmente, estou mergulhado nos estudos de Tecnologia Analise e Desenolvimento de Sistemas, buscando aprimorar minhas habilidades como desenvolvedor de software. Nos momentos de lazer, você me encontrará explorando novos mundos virtuais, seja em jogos eletrônicos ou em projetos de desenvolvimento.
+💻 Programming Languages:
 
-
-💻 Linguagens de Programação:
 <div>
-  <img align="up" alt="Kauan-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="up" alt="Kauan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="up" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="up" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="up" alt="Kauan-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="up" alt="Kauan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
-🚀 Projetos Atuais:<br>
-Em Breve.
-<br>
+🚀 Current Projects:
+Coming Soon.
 
-✉️ Contato:<br>
-Discord: wolfraivoso<br>
-Email:KauanBernaldo88@Gmail.com
+✉️ Contact:
+Discord: wolfraivoso
+Email: KauanBernaldo88@gmail.com
