@@ -11,6 +11,6 @@ Frameworks: React, Node.js, Spring Boot
 
 Ferramentas: Git, Docker, Kubernetes
 
-🌱 Atualmente aprendendo: Machine Learning e DevOps
+🌱 Atualmente aprendendo: Machine Learning e Flutter
 
 📫 Como me encontrar:  Kauanbernaldo88@gmail.com
