@@ -5,7 +5,9 @@ Hey there, mon ami! 👋 Sou Kauãn Kelvin, um estrategista do código, jogando 
 
 💻 About Me
 
-🔹 Desenvolvedor de software apaixonado por criar soluções eficientes e impactantes.🔹 Sempre buscando aprender algo novo e aprimorar minhas habilidades.🔹 Se for pra fazer, que seja lendário.
+🔹 Desenvolvedor de software apaixonado por criar soluções eficientes e impactantes.
+🔹 Sempre buscando aprender algo novo e aprimorar minhas habilidades.
+🔹 Se for pra fazer, que seja lendário.
 
 🔧 Stacks & Skills
 
