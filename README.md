@@ -11,7 +11,10 @@ Hey there, mon ami! 👋 Sou Kauãn Kelvin, um estrategista do código, jogando 
 
 🔧 Stacks & Skills
 
-🚀 Linguagens: C#, Python, Java, JavaScript🚀 Frameworks: React, Node.js, Spring Boot🚀 Ferramentas: Git, Docker, Kubernetes🚀 Atualmente aprendendo: Machine Learning & Flutter
+🚀 Linguagens: C#, Python, Java, JavaScript
+🚀 Frameworks: React, Node.js, Spring Boot
+🚀 Ferramentas: Git, Docker, Kubernetes
+🚀 Atualmente aprendendo: Machine Learning & Flutter
 
 📫 Let's Talk
 
