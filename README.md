@@ -18,6 +18,7 @@ Hey there, mon ami! 👋 Sou Kauãn Kelvin, um estrategista do código, jogando 
 
 📫 Let's Talk
 
-📩 Email: kauanbernaldo88@gmail.com💡 Sempre aberto para desafios, colaborações e novas oportunidades!
+📩 Email: kauanbernaldo88@gmail.com
+💡 Sempre aberto para desafios, colaborações e novas oportunidades!
 
 💥 "Se você quer vencer, tem que estar disposto a sacrificar algumas peças. Escolha bem o seu próximo movimento." - Gambit Mode On.
