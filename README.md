@@ -4,7 +4,7 @@ Oi, eu sou o Kauãn.
 
 Gosto de códigos que funcionam em silêncio, como relógios de bolso bem ajustados. 
 Meus dias são passados entre linhas de C# e JavaScript; minhas noites, estudando 
-como as máquinas aprendem - devagar, mas sempre.
+como as máquinas aprendem.
 
 **Meu trabalho?** Transformar problemas complexos em soluções simples. 
 Sem firulas, só o essencial que funciona.
