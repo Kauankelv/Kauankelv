@@ -1,4 +1,4 @@
-# Kauãn Kelvin - O Artesão do Código
+# Kauãn Kelvin - 🙂
 
 Oi, eu sou o Kauãn.
 
