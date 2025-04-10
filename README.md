@@ -1,37 +1,35 @@
-# Kauãn Kelvin - 🙂
+# Kauãn Kelvin – 🙂
 
-Oi, eu sou o Kauãn.
+Hi, I'm Kauãn.
 
-Gosto de códigos que funcionam em silêncio, como relógios de bolso bem ajustados. 
-Meus dias são passados entre linhas de C# e JavaScript; minhas noites, estudando 
-como as máquinas aprendem.
+I like code that works in silence — like a well-tuned pocket watch.  
+My days are spent between lines of C# and JavaScript; my nights, learning how machines think.
 
-**Meu trabalho?** Transformar problemas complexos em soluções simples. 
-Sem firulas, só o essencial que funciona.
+**What do I do?** I turn complex problems into simple solutions.  
+No fluff — just what works, and works well.
 
-## 🌱 No momento estou:
-- Aprendendo JavaScript e React no meu ritmo
-- Refatorando um sistema legado com cuidado
-- Lendo sobre arquitetura limpa (e aplicando pouco a pouco)
+## 🌱 Currently:
+- Learning JavaScript and React at my own pace  
+- Refactoring a legacy system with care  
+- Reading about clean architecture (and slowly applying it)
 
-## 🪑 Acredito que:
-Tecnologia deveria ser como mobília bem feita: 
-- **Útil** (resolve necessidades reais)
-- **Durável** (sobrevive às atualizações)
-- **Discreta** (funciona sem chamar atenção)
+## 🪑 I believe technology should be like good furniture:
+- **Useful** (solves real needs)  
+- **Durable** (survives updates)  
+- **Discreet** (gets the job done without drawing attention)
 
-## ☕ Vamos conversar sobre:
-- A arte de simplificar sistemas
-- Livros técnicos que realmente ensinam
-- O ponto perfeito do café para programar
+## ☕ Let's talk about:
+- The art of simplifying systems  
+- Tech books that actually teach something  
+- The perfect coffee-to-code ratio
 
-📫 Me encontre em: kauanbernaldo88@gmail.com
+📫 Reach me at: kauanbernaldo88@gmail.com
 
-> "Código bom é como poesia - cada linha tem seu peso, cada espaço sua razão."
+> "Good code is like poetry — every line has its weight, every space its purpose."
 
 ---
 
-📝 *Notas*  
-- Este README vive como código aberto - muda quando precisa  
-- Última atualização: Primavera de 2025  
-- Feito a mão, como código deveria ser  
+📝 *Notes*  
+- This README lives like open-source code — it changes when needed  
+- Last updated: Spring 2025  
+- Handcrafted, just like code should be
