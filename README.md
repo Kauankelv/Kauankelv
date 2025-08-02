@@ -14,7 +14,7 @@ Sou um cara simples com ideias grandes. Enquanto muitos seguem o caminho tradici
 🧪 Atualmente estudando:
 - React com foco em performance e clean architecture
 - Unity com física realista e IA
-- Empreendedorismo tech (porque o plano é ficar rico, não CLT)
+- Empreendedorismo tech
 
 🛠️ Tecnologias que uso no dia a dia:
 - C#, .NET, Python
