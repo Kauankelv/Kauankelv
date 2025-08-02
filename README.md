@@ -1,35 +1,66 @@
-# Kauãn Kelvin – 🙂
+# 👋 Olá, eu sou o Kauãn Kelvin!
 
-Hi, I'm Kauãn.
+🎯 Desenvolvedor Fullstack • C# • React • Unity • Blender  
+📍 Palmas - TO | 🧠 Obcecado por tecnologia útil e código limpo
 
-I like code that works in silence — like a well-tuned pocket watch.  
-My days are spent between lines of C# and JavaScript; my nights, learning how machines think.
-
-**What do I do?** I turn complex problems into simple solutions.  
-No fluff — just what works, and works well.
-
-## 🌱 Currently:
-- Learning JavaScript and React at my own pace  
-- Refactoring a legacy system with care  
-- Reading about clean architecture (and slowly applying it)
-
-## 🪑 I believe technology should be like good furniture:
-- **Useful** (solves real needs)  
-- **Durable** (survives updates)  
-- **Discreet** (gets the job done without drawing attention)
-
-## ☕ Let's talk about:
-- The art of simplifying systems  
-- Tech books that actually teach something  
-- The perfect coffee-to-code ratio
-
-📫 Reach me at: kauanbernaldo88@gmail.com
-
-> "Good code is like poetry — every line has its weight, every space its purpose."
+> “Código bom é como poesia: cada linha tem peso, cada espaço tem propósito.”
 
 ---
 
-📝 *Notes*  
-- This README lives like open-source code — it changes when needed  
-- Last updated: Spring 2025  
-- Handcrafted, just like code should be
+## 🚀 Sobre mim
+
+Sou um cara simples com ideias grandes. Enquanto muitos seguem o caminho tradicional, eu tô criando o meu — entre códigos silenciosos, jogos 3D insanos e sistemas que realmente funcionam.
+
+🧪 Atualmente estudando:
+- React com foco em performance e clean architecture
+- Unity com física realista e IA
+- Empreendedorismo tech (porque o plano é ficar rico, não CLT)
+
+🛠️ Tecnologias que uso no dia a dia:
+- C#, .NET, Python
+- JavaScript, React, Node.js
+- Unity, Blender, Three.js
+- MongoDB, SQLite, Git, Docker
+
+---
+
+## 💼 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [**crud-usuarios**](https://github.com/Kauankelv/crud-usuarios) | Sistema de cadastro de usuários com autenticação e persistência | C#, .NET, SQLite |
+| [**Imersao-Front-End**](https://github.com/Kauankelv/Imersao-Front-End) | Landing page interativa e responsiva com foco em design | HTML, CSS, JavaScript |
+| [**data-ethics**](https://github.com/Kauankelv/data-ethics) | Projeto acadêmico sobre ética no uso de dados | HTML |
+| [**OJCMapper**](https://github.com/Kauankelv/OJCMapper) | App de mapeamento geográfico com Python | Python |
+
+🕹️ Em desenvolvimento:
+- Game de sobrevivência 3D com física de tecido, IA e sistema de inventário (Unity + Blender)
+- Plataforma de gestão de assets 3D com backend robusto
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauankelv&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kauankelv&show_icons=true&theme=radical)
+
+---
+
+## 🎥 Canal no YouTube
+
+Quer ver meus projetos funcionando, tutoriais ou acompanhar devlogs?
+
+📺 [YouTube – Kauan_kelv](https://www.youtube.com/@Kauan_kelv/featured)
+
+---
+
+## 📫 Contato
+
+- Email: [kauanbernaldo88@gmail.com](mailto:kauanbernaldo88@gmail.com)
+- Instagram dev (em breve)
+- LinkedIn (trabalhando nisso)
+
+---
+
+📝 Esse README é como meu código: muda quando precisa, melhora sempre.  
+🧩 Última atualização: **Agosto de 2025**  
