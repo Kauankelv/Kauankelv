@@ -31,10 +31,10 @@ Sou um cara simples com ideias grandes. Enquanto muitos seguem o caminho tradici
 | [**crud-usuarios**](https://github.com/Kauankelv/crud-usuarios) | Sistema de cadastro de usuários com autenticação e persistência | C#, .NET, SQLite |
 | [**Imersao-Front-End**](https://github.com/Kauankelv/Imersao-Front-End) | Landing page interativa e responsiva com foco em design | HTML, CSS, JavaScript |
 | [**data-ethics**](https://github.com/Kauankelv/data-ethics) | Projeto acadêmico sobre ética no uso de dados | HTML |
-| [**OJCMapper**](https://github.com/Kauankelv/OJCMapper) | App de mapeamento geográfico com Python | Python |
+| [**OJCMapper**](https://github.com/Kauankelv/OJCMapper) | App de Gerenciamento de disco de redes em Python | Python |
 
 🕹️ Em desenvolvimento:
-- Game de sobrevivência 3D com física de tecido, IA e sistema de inventário (Unity + Blender)
+- Game de sobrevivência 3D, IA e sistema de inventário (Unity + Blender)
 - Plataforma de gestão de assets 3D com backend robusto
 
 ---
@@ -50,7 +50,7 @@ Sou um cara simples com ideias grandes. Enquanto muitos seguem o caminho tradici
 
 Quer ver meus projetos funcionando, tutoriais ou acompanhar devlogs?
 
-📺 [YouTube – Kauan_kelv](https://www.youtube.com/@Kauan_kelv/featured)
+📺 [YouTube – Kauan_kelv](https://www.youtube.com/@Kauan_kelv)
 
 ---
 
