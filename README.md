@@ -1,66 +1,59 @@
-# 👋 Olá, eu sou o Kauãn Kelvin!
+# 👋 Kauãn Kelvin  
 
-🎯 Desenvolvedor Fullstack • C# • React • Unity • Blender  
-📍 Palmas - TO | 🧠 Obcecado por tecnologia útil e código limpo
+🎯 **Fullstack Developer**  
+📍 Palmas - TO  
 
-> “Código bom é como poesia: cada linha tem peso, cada espaço tem propósito.”
-
----
-
-## 🚀 Sobre mim
-
-Sou um cara simples com ideias grandes. Enquanto muitos seguem o caminho tradicional, eu tô criando o meu — entre códigos silenciosos, jogos 3D insanos e sistemas que realmente funcionam.
-
-🧪 Atualmente estudando:
-- React com foco em performance e clean architecture
-- Unity com física realista e IA
-- Empreendedorismo tech
-
-🛠️ Tecnologias que uso no dia a dia:
-- C#, .NET, Python
-- JavaScript, React, Node.js
-- Unity, Blender, Three.js
-- MongoDB, SQLite, Git, Docker
+> “Código bom é como poesia: cada linha tem peso, cada espaço tem propósito.”  
 
 ---
 
-## 💼 Projetos em destaque
+## 🛠️ Tech Stack  
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [**crud-usuarios**](https://github.com/Kauankelv/crud-usuarios) | Sistema de cadastro de usuários com autenticação e persistência | C#, .NET, SQLite |
-| [**Imersao-Front-End**](https://github.com/Kauankelv/Imersao-Front-End) | Landing page interativa e responsiva com foco em design | HTML, CSS, JavaScript |
-| [**data-ethics**](https://github.com/Kauankelv/data-ethics) | Projeto acadêmico sobre ética no uso de dados | HTML |
-| [**OJCMapper**](https://github.com/Kauankelv/OJCMapper) | App de Gerenciamento de disco de redes em Python | Python |
-
-🕹️ Em desenvolvimento:
-- Game de sobrevivência 3D, IA e sistema de inventário (Unity + Blender)
-- Plataforma de gestão de assets 3D com backend robusto
-
----
-
-## 📊 Estatísticas GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauankelv&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kauankelv&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🎥 Canal no YouTube
+## 💼 Projetos  
 
-Quer ver meus projetos funcionando, tutoriais ou acompanhar devlogs?
+- [**CRUD Usuários**](https://github.com/Kauankelv/crud-usuarios) • Autenticação + persistência (C#, .NET, SQLite)  
+- [**Imersão Front-End**](https://github.com/Kauankelv/Imersao-Front-End) • Landing interativa (HTML, CSS, JS)  
+- [**OJCMapper**](https://github.com/Kauankelv/OJCMapper) • Gestão de discos de rede (Python)  
 
-📺 [YouTube – Kauan_kelv](https://www.youtube.com/@Kauan_kelv)
-
----
-
-## 📫 Contato
-
-- Email: [kauanbernaldo88@gmail.com](mailto:kauanbernaldo88@gmail.com)
-- Instagram dev (em breve)
-- LinkedIn (trabalhando nisso)
+🕹️ **Em dev:** Game 3D de sobrevivência com IA + inventário (Unity + Blender)  
 
 ---
 
-📝 Esse README é como meu código: muda quando precisa, melhora sempre.  
-🧩 Última atualização: **Agosto de 2025**  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kauankelv&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauankelv&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 📫 Contato  
+
+<p align="center">
+  <a href="mailto:kauanbernaldo88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Kauan_kelv">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">🧩 Última atualização: <b>Setembro/2025</b></p>
