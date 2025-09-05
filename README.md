@@ -1,13 +1,13 @@
-# 👋 Kauãn Kelvin  
+# 👋 Kauãn Kelvin
 
-🎯 **Fullstack Developer**  
-📍 Palmas - TO  
+💻 Fullstack Developer • Unity & Blender  
+📍 Palmas - TO | ☕ Código e café à noite  
 
-> “Código bom é como poesia: cada linha tem peso, cada espaço tem propósito.”  
+> “Código bom é como poesia: cada linha tem peso, cada espaço tem propósito.”
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -24,17 +24,16 @@
 
 ---
 
-## 💼 Projetos  
+## 💼 Projetos em destaque
 
-- [**CRUD Usuários**](https://github.com/Kauankelv/crud-usuarios) • Autenticação + persistência (C#, .NET, SQLite)  
-- [**Imersão Front-End**](https://github.com/Kauankelv/Imersao-Front-End) • Landing interativa (HTML, CSS, JS)  
-- [**OJCMapper**](https://github.com/Kauankelv/OJCMapper) • Gestão de discos de rede (Python)  
-
-🕹️ **Em dev:** Game 3D de sobrevivência com IA + inventário (Unity + Blender)  
+- [**CRUD Usuários**](https://github.com/Kauankelv/crud-usuarios) • C#, .NET, SQLite  
+- [**Imersão Front-End**](https://github.com/Kauankelv/Imersao-Front-End) • HTML, CSS, JS  
+- [**OJCMapper**](https://github.com/Kauankelv/OJCMapper) • Python  
+- 🕹️ **Em desenvolvimento:** Game 3D de sobrevivência com IA + inventário (Unity + Blender)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kauankelv&show_icons=true&theme=radical" height="165"/>
@@ -43,7 +42,7 @@
 
 ---
 
-## 📫 Contato  
+## 📫 Contato
 
 <p align="center">
   <a href="mailto:kauanbernaldo88@gmail.com">
@@ -51,6 +50,9 @@
   </a>
   <a href="https://www.youtube.com/@Kauan_kelv">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kauankelvin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
